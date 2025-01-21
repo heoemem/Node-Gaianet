@@ -6,6 +6,7 @@ Trước khi bắt đầu, đảm bảo rằng hệ thống của bạn đáp �
 Ubuntu Linux 20.04 với Nvidia CUDA 12 SDK (nếu sử dụng GPU).
 8GB VRAM trên GPU (hoặc cao hơn).
 32GB RAM được khuyến nghị (16GB là tối thiểu).
+
 2. Tải và cài đặt node GaiaNet
 Tải script cài đặt: Sử dụng lệnh sau để tải và chạy script cài đặt GaiaNet:
 
